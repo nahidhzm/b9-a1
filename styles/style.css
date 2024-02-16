@@ -233,3 +233,55 @@ body {
 }
 
 /* upcoming offer end */
+/* portfolio section start */
+.portfolio-section {
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.portfolio-section h3 {
+    color: #FF0000;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.portfolio-section h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 5px;
+    text-transform: capitalize;
+    margin-bottom: 18px;
+}
+
+.portfolio-section>p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+.portfolio-section div {
+    display: flex;
+}
+
+.portfolio-section div img {
+    width: 30%;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.portfolio-section div img:hover {
+    width: 32%;
+    box-shadow: 1px 1px 1px 1px black;
+}
+/* portfolio section end */
+/* start subscribe section */
+
+/* end subscribe section */
