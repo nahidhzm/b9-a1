@@ -125,7 +125,24 @@ body {
     margin-top: 40px;
     text-align: center;
     align-items: center;
-    background: linear-gradient(rgba(246, 170, 170, 0.8), rgba(229, 229, 250, 0.3));
+    background: linear-gradient(rgba(247, 181, 181, 0.8), rgba(229, 229, 250, 0.3));
 
+}
+.party-info div{
+    padding-top: 50px;
+}
+.party-info div p{
+    font-weight: bold;
+    font-family: arial;
+}
+.party-info div p span{
+    color: #FF0000;
+}
+.party-info div button{
+    background-color: #FF0000;
+    color: #ffffff;
+    border: none;
+    border-radius: 7px;
+    padding: 5px 18px;
 }
 /* place date time end */
